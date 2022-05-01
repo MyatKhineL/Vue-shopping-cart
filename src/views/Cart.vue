@@ -1,8 +1,8 @@
 <template>
   <div>
-      <master>
-       <h1>Home Page</h1>
-      </master>
+   <master>
+     <h1>Cart Page</h1>
+   </master>
   </div>
 </template>
 
